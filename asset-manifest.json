@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TaxBlock/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/TaxBlock/static/js/main.1706c45c.chunk.js",
+    "main.js.map": "/TaxBlock/static/js/main.1706c45c.chunk.js.map",
+    "runtime-main.js": "/TaxBlock/static/js/runtime-main.d35ea18a.js",
+    "runtime-main.js.map": "/TaxBlock/static/js/runtime-main.d35ea18a.js.map",
+    "static/js/2.5d25499d.chunk.js": "/TaxBlock/static/js/2.5d25499d.chunk.js",
+    "static/js/2.5d25499d.chunk.js.map": "/TaxBlock/static/js/2.5d25499d.chunk.js.map",
+    "index.html": "/TaxBlock/index.html",
+    "precache-manifest.726645704cc9970576baa3c98c416538.js": "/TaxBlock/precache-manifest.726645704cc9970576baa3c98c416538.js",
+    "service-worker.js": "/TaxBlock/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/TaxBlock/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5d25499d.chunk.js.LICENSE.txt": "/TaxBlock/static/js/2.5d25499d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d35ea18a.js",
+    "static/js/2.5d25499d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1706c45c.chunk.js"
+  ]
+}
